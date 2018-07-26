@@ -9,6 +9,7 @@ When you initially "remix", it could take up several minutes for your environmen
 * [ReasonML Forum](https://reasonml.chat/)
 * [ReasonML Docs](https://reasonml.github.io/)
 * [ReasonReact Docs](https://reasonml.github.io/reason-react/)
+* [This project, on Github](https://github.com/tsaiDavid/glitch-reason-react/)
 
 ----
 
