@@ -10,6 +10,8 @@ Visit this link to "remix" your own!
 
 https://glitch.com/~glitch-reason-react
 
+![screenshot](https://github.com/tsaiDavid/glitch-reason-react/blob/master/screenshot.png "Screenshot of Glitch Sample")
+
 ### Helpful Links
 * [ReasonML Forum](https://reasonml.chat/)
 * [ReasonML Docs](https://reasonml.github.io/)
