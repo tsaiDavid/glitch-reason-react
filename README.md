@@ -5,6 +5,11 @@
 
 When you initially "remix", it could take up several minutes for your environment to initalize. By default, it is running a development build of React - I would like to iron out some kinks to provide some tips on how one might be able to get a production version running within the Glitch env. (Feel free to make PRs!)
 
+### Remix Your Own!
+Visit this link to "remix" your own!
+
+https://glitch.com/~glitch-reason-react
+
 ### Helpful Links
 * [ReasonML Forum](https://reasonml.chat/)
 * [ReasonML Docs](https://reasonml.github.io/)
