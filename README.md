@@ -1,3 +1,17 @@
+# Glitch + ReasonReact
+
+### What Is This?
+[This](https://github.com/tsaiDavid/glitch-reason-react/) is the repo that serves as the basis for a CRA bootstrapped ReasonReact project with a couple of tweaks to get it running on [Glitch](https://glitch.com/about/) - now anyone can "remix" their own ReasonML project quickly!
+
+When you initially "remix", it could take up several minutes for your environment to initalize. By default, it is running a development build of React - I would like to iron out some kinks to provide some tips on how one might be able to get a production version running within the Glitch env. (Feel free to make PRs!)
+
+### Helpful Links
+* [ReasonML Forum](https://reasonml.chat/)
+* [ReasonML Docs](https://reasonml.github.io/)
+* [ReasonReact Docs](https://reasonml.github.io/reason-react/)
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
